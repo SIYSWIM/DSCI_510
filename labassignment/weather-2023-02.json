@@ -1,0 +1,16 @@
+{
+    "station": "Los Angeles International Airport",
+    "notes": ["February 19-28, 2023", "Data retrieved on 3/1/2023"],
+    "data": {
+        "2023-02-19": {"temp": {"min": 44, "max": 64}},
+        "2023-02-20": {"temp": {"min": 49, "max": 68}},
+        "2023-02-21": {"temp": {"min": 51, "max": 62}},
+        "2023-02-22": {"temp": {"min": 48, "max": 56}},
+        "2023-02-23": {"temp": {"min": 41, "max": 52}},
+        "2023-02-24": {"rain": 0.37, "temp": {"min": 46, "max": 56}},
+        "2023-02-25": {"rain": 2.46, "temp": {"min": 44, "max": 53}},
+        "2023-02-26": {"rain": 1.26, "temp": {"min": 41, "max": 54}},
+        "2023-02-27": {"rain": 0.09, "temp": {"min": 46, "max": 54}},
+        "2023-02-28": {"rain": 0.22, "temp": {"min": 47, "max": 57}}
+    }
+}

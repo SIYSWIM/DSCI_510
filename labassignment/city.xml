@@ -1,0 +1,74 @@
+<?xml version='1.0' ?>
+<data>
+	<city class="A" timezone="Pacific">
+		<name>
+			Los Angeles
+		</name>
+		<county>
+			Los Angeles
+		</county>
+		<state>
+			California
+		</state>
+		<country>
+			USA
+		</country>
+	</city>
+	<city class="A">
+		<name>
+			Paris
+		</name>
+		<country>
+			France
+		</country>
+	</city>
+	<city class="A" timezone="Eastern">
+		<name>
+			New York
+		</name>
+		<state>
+			New York
+		</state>
+		<country>
+			USA
+		</country>
+	</city>
+	<city class="B">
+		<name>
+			London
+		</name>
+		<country>
+			England
+		</country>
+	</city>
+	<city class="B">
+		<name>
+			Bangkok
+		</name>
+		<country>
+			Thailand
+		</country>
+	</city>
+	<city class="C">
+		<name>
+			Washington
+		</name>
+		<country>
+			USA
+		</country>
+	</city>
+	<city class="C" timezone="Pacific">
+		<name>
+			Santa Monica
+		</name>
+		<county>
+			Los Angeles
+		</county>
+		<state>
+			California
+		</state>
+		<country>
+			USA
+		</country>
+	</city>
+</data>
